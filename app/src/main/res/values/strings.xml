@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Inicio</string>
+    <string name="mi_primer_aplicacion">Mi primer aplicacion</string>
+    <string name="inicio">Inicio</string>
+    <string name="introduce_tu_password">Introduce tu password</string>
+    <string name="escribe_tu_mail">Escribe tu mail</string>
+    <string name="ingresar">ingresar</string>
+</resources>
